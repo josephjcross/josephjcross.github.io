@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Joseph J. Cross"
   pronouns         : # example: "he/his"  
-  bio              : "I research the Hebrew Bible and Ancient Egyptian literature"
+  bio              : "I research the Hebrew Bible and Ancient Egyptian literature. Interested in the poetics of ancient literature and its political unconscious. PhD Chicago, 2022."
   location         : "Berlin, Germany"
   employer         : "Humboldt-Universität zu Berlin"
   uri              : # URL
@@ -77,8 +77,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  manuscripts_articles:
     title: 'Journal Articles'    
+  manuscripts_chapters:
+    title: 'Book Chapters'
   conferences:
     title: 'Conference Papers'
 
