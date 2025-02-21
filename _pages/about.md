@@ -8,7 +8,7 @@ redirect_from:
 
 Hello! 
 
-I am a philologist and scholar of ancient literature, who specializes in the Hebrew Bible and ancient Jewish literature, as well as literature from Ancient Egypt. Currently I am researcher at the Humboldt-Universität zu Berlin with the European Research Council-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/en/dembib/dembib).
+I am a humanist specializing in ancient Mediterranen literature, in particular the Hebrew Bible and Ancient Egyptian literature. Currently I am researcher at the Humboldt-Universität zu Berlin with the European Research Council-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/en/dembib/dembib).
 
 Read more about me and my research [here](/aboutme).
 
