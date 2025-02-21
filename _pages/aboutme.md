@@ -1,9 +1,9 @@
 ---
-permalink: /aboutme
+permalink: /aboutme/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#  - /about/
+#  - /about.html
 ---
 
 I appreciate your interest in who I am!
