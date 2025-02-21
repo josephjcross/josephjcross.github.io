@@ -15,5 +15,5 @@ Read more about me and my research [here](/aboutme).
 Links:
 * My [project page](https://www.theologie.hu-berlin.de/en/dembib/research-team/dr-joseph-cross)
 * More on the project I work for: [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/en/dembib/dembib)
-* My [blog](/blog) (found on this site) for keeping track of my professional work
+* My [blog](/year-archive/) (found on this site) for keeping track of my professional work
 * My [personal blog](https://josephjcross.blogspot.com/) for other writing (hope you like James Joyce if you click that link)
