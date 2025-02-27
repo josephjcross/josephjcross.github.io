@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+(I'm aware that this page is not working well on mobile and that you can't access the other pages! Will try to fix soon...)
+
 Hello! 
 
 I am a humanist specializing in ancient Mediterranean literature, in particular the Hebrew Bible and Ancient Egyptian literature. Currently I am researcher at the Humboldt-Universität zu Berlin with the European Research Council-funded project [From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible (DEMBIB)](https://www.theologie.hu-berlin.de/en/dembib/dembib).
