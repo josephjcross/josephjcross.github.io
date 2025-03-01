@@ -7,82 +7,82 @@ author_profile: true
 
 #### 2025
 
-Cyclic Composition as Secular Scripture in the Late First Millennium<br/>
+**Cyclic Composition as Secular Scripture in the Late First Millennium**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods (EABS)"<br/>
 
-Ancient Paperbacks? Small Format Scrolls in Qumran and Demotic Egyptian Literature</br>
+**Ancient Paperbacks? Small Format Scrolls in Qumran and Demotic Egyptian Literature**</br>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “Ancient Near East”<br/>
 
-Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document</br>
+**Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document**</br>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “The Book of Numbers in the Context of Second Temple Literature (EABS)"<br/>
 
-The Sparse Ground of Counterfactuality in the Judean Novella<br/>
+**The Sparse Ground of Counterfactuality in the Judean Novella**<br/>
 International Organization for the Study of the Old Testament (Berlin, Germany, August 12th)<br/> 
 Session “First Results of the ERC DEMBIB Project”<br/>
 
 #### 2024
 
-Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History<br/>
+**Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History**<br/>
 European Association of Biblical Studies Annual Conference (July 10th-13th), research unit "Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods" (with José Rafael Saade)
 
-Philology as Leisure in the Novella of Ruth<br/>
+**Philology as Leisure in the Novella of Ruth**<br/>
 Society of Biblical Literature Annual Meeting (November 11th-21st), program unit "Philology and Biblical Studies"
 
-Are All Texts Rivers? The Ending of MT Esther and the Multitextuality of Prose Fiction in the Hellenistic Period<br/>
+**Are All Texts Rivers? The Ending of MT Esther and the Multitextuality of Prose Fiction in the Hellenistic Period**<br/>
 Society of Biblical Literature Annual Meeting (November 11th-21st), program unit "Hebrew Scriptures and Cognate Literature"
 
 #### 2023
 
-Rethinking the Ending of Esther in Light of Demotic Egyptian Papyri<br/> 
+**Rethinking the Ending of Esther in Light of Demotic Egyptian Papyri**<br/> 
 Tagung der Fachgruppe für Altes Testament der WGTh, Berlin (_March 4_)
 
-Multiple Endings, Not Redactions in MT Esther<br/>
+**Multiple Endings, Not Redactions in MT Esther**<br/>
 Alttestamentliche Sozietät, Theologische Fakultät, Humboldt-Universität zu Berlin (_January 4_)
 
 #### 2022
 
-A “véritable cycle romanesque?” The Relationship between P. Krall and P. Spiegelberg Reconsidered<br/>
+**A “véritable cycle romanesque?” The Relationship between P. Krall and P. Spiegelberg Reconsidered**<br/>
 14th International Demotic Congress, Heidelberg (_September 6_)
 
 #### 2021
 
-Group Writing as Text-Making Technique<br/>
+**Group Writing as Text-Making Technique**<br/>
 Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 5_)
 
-Mouvance and the Storyteller’s Art in Manuscripts of a Demotic Novella
+**Mouvance and the Storyteller’s Art in Manuscripts of a Demotic Novella**<br/>
 Early Text Cultures reading group (Oxford), “Writing Orality” series (_February 18_)
 
 #### 2020
 
-The Visual Possibilities of Narrative in the Demotic Battle for the Prebend of Amun<br/> 
+**The Visual Possibilities of Narrative in the Demotic Battle for the Prebend of Amun**<br/> 
 Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 7_)
 
-Finding God in Nineveh: A Case Study in Judean and Egyptian Prophetic Imagination<br/>
+**Finding God in Nineveh: A Case Study in Judean and Egyptian Prophetic Imagination**<br/>
 Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
 
-When Storytelling Becomes Canonical: Changing Fortunes of the Novella in Hellenistic and Roman Judea and Egypt<br/>
+**When Storytelling Becomes Canonical: Changing Fortunes of the Novella in Hellenistic and Roman Judea and Egypt**<br/>
 Society of Biblical Literature Annual Meeting, Online. (_November 21st-24th_)
 
-Between the Cosmopolitan and the Vernacular: Private Literature in the Post-Iron Age Southeastern Mediterranean<br/>
+**Between the Cosmopolitan and the Vernacular: Private Literature in the Post-Iron Age Southeastern Mediterranean**<br/>
 American Schools of Oriental Research Annual Meeting, Online (_November 18th-21st_)
 
-Genre Matters: Jonah as Novella<br/>
+**Genre Matters: Jonah as Novella**<br/>
 Southeastern Commission on the Study of Religion Annual Meeting, Athens GA (_March 1_)
 
 #### 2018
 
-“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)<br/>
+**“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)**<br/>
 American Schools of Oriental Research Annual Meeting (_November 14th-17th_)
 
-Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 63<br/>
+**Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 6**3<br/>
 Society of Biblical	Literature Annual Meeting, Denver CO (_November 18th_)
 
 #### 2011
 
-“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23<br/>
+**“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23**<br/>
 Southwestern Conference on Religious Studies Annual Meeting, Irving TX (_March 5th_)
 
 ### <a name="talks"></a>Talks (selected)
