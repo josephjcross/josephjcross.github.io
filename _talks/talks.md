@@ -3,19 +3,19 @@ permalink: /talks/
 author_profile: true
 ---
 
-### <a name="papers"></a>Conference Papers
+## <a name="papers"></a>Conference Papers
 
-#### 2025
+### 2025
 
 **Cyclic Composition as Secular Scripture in the Late First Millennium**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods (EABS)"<br/>
 
-**Ancient Paperbacks? Small Format Scrolls in Qumran and Demotic Egyptian Literature**</br>
+**Ancient Paperbacks? Small Format Scrolls in Qumran and Demotic Egyptian Literature**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “Ancient Near East”<br/>
 
-**Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document**</br>
+**Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “The Book of Numbers in the Context of Second Temple Literature (EABS)"<br/>
 
@@ -23,7 +23,7 @@ Session “The Book of Numbers in the Context of Second Temple Literature (EABS)
 International Organization for the Study of the Old Testament (Berlin, Germany, August 12th)<br/> 
 Session “First Results of the ERC DEMBIB Project”<br/>
 
-#### 2024
+### 2024
 
 **Egypt as Garden in the (Post-)Achaemenid Conceptualization of Space and History**<br/>
 European Association of Biblical Studies Annual Conference (July 10th-13th), research unit "Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods" (with José Rafael Saade)
@@ -34,7 +34,7 @@ Society of Biblical Literature Annual Meeting (November 11th-21st), program unit
 **Are All Texts Rivers? The Ending of MT Esther and the Multitextuality of Prose Fiction in the Hellenistic Period**<br/>
 Society of Biblical Literature Annual Meeting (November 11th-21st), program unit "Hebrew Scriptures and Cognate Literature"
 
-#### 2023
+### 2023
 
 **Rethinking the Ending of Esther in Light of Demotic Egyptian Papyri**<br/> 
 Tagung der Fachgruppe für Altes Testament der WGTh, Berlin (_March 4_)
@@ -42,12 +42,12 @@ Tagung der Fachgruppe für Altes Testament der WGTh, Berlin (_March 4_)
 **Multiple Endings, Not Redactions in MT Esther**<br/>
 Alttestamentliche Sozietät, Theologische Fakultät, Humboldt-Universität zu Berlin (_January 4_)
 
-#### 2022
+### 2022
 
 **A “véritable cycle romanesque?” The Relationship between P. Krall and P. Spiegelberg Reconsidered**<br/>
 14th International Demotic Congress, Heidelberg (_September 6_)
 
-#### 2021
+### 2021
 
 **Group Writing as Text-Making Technique**<br/>
 Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 5_)
@@ -55,7 +55,7 @@ Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_N
 **Mouvance and the Storyteller’s Art in Manuscripts of a Demotic Novella**<br/>
 Early Text Cultures reading group (Oxford), “Writing Orality” series (_February 18_)
 
-#### 2020
+### 2020
 
 **The Visual Possibilities of Narrative in the Demotic Battle for the Prebend of Amun**<br/> 
 Society for the Study of Egyptian Antiquities Scholars’ Colloquium, Online (_November 7_)
@@ -72,7 +72,7 @@ American Schools of Oriental Research Annual Meeting, Online (_November 18th-21s
 **Genre Matters: Jonah as Novella**<br/>
 Southeastern Commission on the Study of Religion Annual Meeting, Athens GA (_March 1_)
 
-#### 2018
+### 2018
 
 **“Suit the action to the word, the word to the action”: A New Reading of a Northwest Semitic Incantation in Egyptian Script (P. BM 10042, col. XII)**<br/>
 American Schools of Oriental Research Annual Meeting (_November 14th-17th_)
@@ -80,14 +80,14 @@ American Schools of Oriental Research Annual Meeting (_November 14th-17th_)
 **Envisioning a Compiler at Work: Scribal Features of Papyrus Amherst 6**3<br/>
 Society of Biblical	Literature Annual Meeting, Denver CO (_November 18th_)
 
-#### 2011
+### 2011
 
 **“The Earth from Which He Was Taken”: The Shift of Speaker in Genesis 3:22-23**<br/>
 Southwestern Conference on Religious Studies Annual Meeting, Irving TX (_March 5th_)
 
-### <a name="talks"></a>Talks (selected)
+## <a name="talks"></a>Talks (selected)
 
-#### 2022
+### 2022
 
 Egyptian Scribes Writing Northwest Semitic<br/>
 Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,” Theologische Fakultät, Humboldt-Universität zu Berlin (_July 28_)
@@ -98,7 +98,7 @@ Guest lecture, Lehrstuhl “Geschichte Israels in der altorientalischen Welt,”
 Inside the Academy: Getting a Humanities PhD in the US<br/>
 Guest lecture, Graduiertenzentrum, Theologische Fakultät, Humboldt-Universität zu Berlin (_June 1_)
 
-#### 2021
+### 2021
 
 Getting the Story Straight: Plot Structure and Eventfulness in Esther<br/>
 Hebrew Bible and Early Jewish Reception Workshop, University of Chicago (_May 25_)
@@ -106,7 +106,7 @@ Hebrew Bible and Early Jewish Reception Workshop, University of Chicago (_May 25
 Literature in Ancient Egyptian Society<br/>
 Literature Workshop, Oriental Institute of the University of Chicago (_February 13_)
 
-#### 2020
+### 2020
 
 Who Are the Samaritans?<br/>
 Sunday Seminar, Oriental Institute of the University of Chicago (_August 16_)
@@ -120,12 +120,12 @@ Members' Lecture, Oriental Institute of the University of Chicago (_April 8_)
 Mythology of Ancient Egypt<br/>
 Guest lecture, CLAS 250 Mythology, University of North Carolina Asheville (_February 14_)
 
-#### 2019
+### 2019
 
 Books without Authors: Who Wrote (And Read) The First Novels?<br/>
 Brown Bag Lecture, Ramsey Library, University of North Carolina Asheville (_February 14_)
 
-#### 2018
+### 2018
 
 Science and Technology of Writing in Ancient Egypt<br/>
 Teacher Cohort Academy lecture, Education Department of the Oriental Institute of the University of Chicago
@@ -135,7 +135,7 @@ Textual Criticism of the Hebrew Bible: A Manuscript-Based Overview<br/>
 Colloquium for [Critical Editions for Digital Analysis and Research](https://voices.uchicago.edu/cedar/) Project,
 [OCHRE Data Service](https://voices.uchicago.edu/ochre/), The Oriental Institute of the University of Chicago (_May 4_)
 
-#### 2017
+### 2017
 
 Egypto-Judaica: The First Jews in Egypt and the Egyptian Influence on the Bible<br/>
 Lunch Lecture, KAM Isaiah Israel, Hyde Park, Chicago IL (_April 18_)
@@ -146,7 +146,7 @@ Oriental Institute Community Scholars Lecture, Itasca Public Library, Itasca IL 
 Engineering and Mathematics in Ancient Egypt<br/>
 Teacher Cohort Academy lecture, Education Department of the Oriental Institute of the University of Chicago (_February 17_)
 
-#### 2016
+### 2016
 
 Magic and Medicine in Ancient Egypt<br/>
 Oriental Institute Community Scholars Lecture, La Grange Public Library, La Grange IL (_October 25_)
