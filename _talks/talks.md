@@ -1,6 +1,6 @@
 ---
-title: "Conference papers and talks"
-collection: talks
+permalink: /talks/
+author_profile: true
 ---
 
 ### <a name="papers"></a>Conference Papers
