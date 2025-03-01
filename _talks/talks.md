@@ -8,13 +8,20 @@ collection: talks
 #### 2025
 
 Cyclic Composition as Secular Scripture in the Late First Millennium<br/>
-International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)
+International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
+Session “Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods (EABS)"<br/>
 
 Ancient Paperbacks? Small Format Scrolls in Qumran and Demotic Egyptian Literature</br>
-International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)
+International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
+Session “Ancient Near East”<br/>
 
 Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document</br>
-International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)
+International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
+Session “The Book of Numbers in the Context of Second Temple Literature (EABS)"<br/>
+
+The Sparse Ground of Counterfactuality in the Judean Novella<br/>
+International Organization for the Study of the Old Testament (Berlin, Germany, August 12th)<br/> 
+Session “First Results of the ERC DEMBIB Project”<br/>
 
 #### 2024
 
