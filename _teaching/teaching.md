@@ -16,7 +16,7 @@ author_profile: true
 
 #### Other
 
-* syllabus - maymester 2019 [[pdf]](files/syllabi/Cross.HUM124.001.Maymester.2019.syllabus.pdf)
+* syllabus - maymester 2019 [[pdf]](files/Cross.HUM124.001.Maymester.2019.syllabus.pdf)
 * syllabus - spring 2019 [[pdf]](files/syllabi/Cross.HUM124.007-16.Spring.2019.syllabus.pdf)
 
 ### Latin I-II (CLAS 101-102)
