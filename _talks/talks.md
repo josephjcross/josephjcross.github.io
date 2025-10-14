@@ -7,6 +7,21 @@ author_profile: true
 
 ### 2025
 
+**Compensating for Pluriformity: A Telling Resumptive Repetition from Ptolemaic Egypt**<br/>
+Paper to be delivered for the section “Hebrew Scriptures and Cognate Literature” at the Society of Biblical Literature Annual Meeting, November 2025<br/>
+
+**Trauma and the Erotics of Plot in Judith**<br/>
+Paper to be delivered for the section “Ancient Fiction and Early Christian and Jewish Narrative” at the Society of Biblical Literature Annual Meeting, November 2025<br/>
+
+**What Does Tobit’s Pluriformity Have to Do with Its Fictional Frame?**<br/>
+Invited paper for the conference “Transmission, Variation, and Transformation of ‘Deuterocanonical’ Literature Over Time,” Association Catholique Française pour l’Étude de la Bible, Metz, France, November 5th-6th</br>
+
+**The Demotic Novella in the Garden of Egypt**<br/>
+Paper delivered for the conference “Romance on the Nile: The Ancient Novel in Egypt—The Novel in Ancient Egypt,” Freie Universität Berlin, September 10th-12th<br/>
+
+**Beyond Closure: Transtextuality and Openness in the Ending of the Judean and Egyptian Novella**<br/>
+Paper delivered for the session “First Results of the ERC DEMBIB Project” at the conference of the International Organization for the Study of the Old Testament, Berlin, Germany, August 12th 
+
 **Cyclic Composition as Secular Scripture in the Late First Millennium**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “Comparing Ancient Chronographic Historiographies from Mesopotamia, Egypt, Judah, and Greece in the Persian and Early Hellenistic Periods (EABS)"<br/>
@@ -18,10 +33,6 @@ Session “Ancient Near East”<br/>
 **Scripturalization and Disenchantment in Numbers 5:11-32 and the Damascus Document**<br/>
 International Society of Biblical Literature meeting (Stockholm, Sweden, June 23rd-27th)<br/>
 Session “The Book of Numbers in the Context of Second Temple Literature (EABS)"<br/>
-
-**The Sparse Ground of Counterfactuality in the Judean Novella**<br/>
-International Organization for the Study of the Old Testament (Berlin, Germany, August 12th)<br/> 
-Session “First Results of the ERC DEMBIB Project”<br/>
 
 ### 2024
 
