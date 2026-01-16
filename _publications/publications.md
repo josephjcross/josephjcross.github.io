@@ -25,7 +25,7 @@ author_profile: true
 
 ### 2026
 
-* “Appearance and Reality in Setna’s Dialogue with ‘Pharaoh’ in First Setna 5.31-35,” in Aurore Motte and Victoria Almansa-Villatoro, eds., *(Im)politeness in Ancient Egypt: Norms, Wit, and Rudeness in Texts from Pharaonic Times through Late Antiquity* (Brill, Studies in Pragmatics 26), pp. 265–292 [[link]]([https://brill.com/display/book/9789004724235/BP000011.xml?body=contentSummary-133844](https://works.hcommons.org/records/0bm5e-evr04/latest))
+* “Appearance and Reality in Setna’s Dialogue with ‘Pharaoh’ in First Setna 5.31-35,” in Aurore Motte and Victoria Almansa-Villatoro, eds., *(Im)politeness in Ancient Egypt: Norms, Wit, and Rudeness in Texts from Pharaonic Times through Late Antiquity* (Brill, Studies in Pragmatics 26), pp. 265–292 [[link]](https://works.hcommons.org/records/0bm5e-evr04/latest))
 
 ### 2025
 
