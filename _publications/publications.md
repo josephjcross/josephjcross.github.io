@@ -20,7 +20,8 @@ author_profile: true
 ### Forthcoming
 
 * “Beyond Paradise: The Persian *Paridaidā* and Imperial Space in Persepolis and the Demotic Chronicle,” in Kristin Joachimsen and Jason Silverman, eds., *Symbolic Spaces Associated with Paradise (Pardes)* (Brill, Themes in Biblical Narrative) (with José Rafael Saade)
-* “The Style of the Opening of the Novella: Beginning a Story in Judean and Egyptian Narrative,” *Hebrew Bible and Ancient Israel* (Forthcoming 2026)
+* “The Style of the Opening of the Novella: Beginning a Story in Judean and Egyptian Narrative,” *Hebrew Bible and Ancient Israel* 15:3 (Forthcoming 2026)
+* “Finding God in Nineveh: Mapping a Motif in Judean and Egyptian Literature,” *Journal of Near Eastern Studies* 25:2 (Forthcoming 2026)
 * “The Corpus of Northwest Semitic Texts in Egyptian Script,” in Susan Hollis, ed., *The Oxford Handbook of Ancient Egypt and the Hebrew Bible* (Forthcoming)
 
 ### 2026
